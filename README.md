@@ -1,3 +1,3 @@
 # XamarinHelloWorldWidget
 
-![Alt text](/XamarinHelloWorldWidget/README.png "Sample Screen")
+![Alt text](/HelloWorld/README.png?raw=true "Sample Screen")
